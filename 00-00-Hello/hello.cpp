@@ -1,6 +1,5 @@
-/* Qué: Julian Saavedra M.
- * TP0: hello world
- * Quiénes: Julian Saavedra M.
+/* TP0: hello world
+ * Quienes: Julian Saavedra M.
  * Cuando: 3/4/2018
  */
 
