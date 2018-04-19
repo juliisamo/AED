@@ -1,3 +1,7 @@
+## Problema
+
+Para este problema se debe desarollar una solucón a la suma de dos números.
+
 ## Análisis del problema
 
 * a, b ∈ Z
