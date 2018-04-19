@@ -1,0 +1,1 @@
+El trabajo práctico #0 fue realizado para entender el entorno en el que se trabajará durante el año. Sencillamente se tnía que realizar un programa que mostrara en pantalla "Hello World". el IDE que utilze es Dev C++.
