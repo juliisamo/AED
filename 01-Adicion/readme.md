@@ -1,6 +1,6 @@
 ## Problema
 
-Para este problema se debe desarollar una solucón a la suma de dos números.
+Para este problema se debe desarollar una solucón a la suma de dos números. Al no especificar, se utilizarán numeros enteros.
 
 ## Análisis del problema
 
