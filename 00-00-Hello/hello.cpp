@@ -1,5 +1,4 @@
-/* Que: Trabajo Practico 0 
- * Trabajo para interiorizarnos en el entorno
+/* TP0: hello world
  * Quienes: Julian Saavedra M.
  * Cuando: 3/4/2018
  */
